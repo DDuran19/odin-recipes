@@ -1,0 +1,29 @@
+body {
+    background-color: #212121;
+    color: #ffffff;
+}
+
+div{
+text-align: center;
+align-items: center;
+}
+a{
+color: #ffffff;
+}
+a:hover{
+color: rgb(135, 135, 203)
+}
+
+div.recipes{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+/* What I learned:
+. is used for accessing CLASS
+# is used for accessing ID
+div is used as a container
+    - when adding modification, 
+    modify the div, not the actual texts/ contents.
+
+*/
